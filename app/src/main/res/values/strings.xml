@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">loginapp2</string>
+    <string name="enter_your_email_address_below_to">Enter your Email address below to\nreceive your password reset instrucation</string>
+    <string name="email">"   Enter your phone number below to\nreceive your password reset instruction"</string>
+</resources>
